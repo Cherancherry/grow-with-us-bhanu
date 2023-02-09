@@ -1,0 +1,183 @@
+
+
+
+.title{
+ 
+    text-align: center;
+    position: relative;
+    font-size: 4.3rem;
+    padding: 3%;
+    font-family: 'Cinzel', serif;
+       top: 9rem;
+       color: white;
+       left: 1.5rem;
+      
+       
+    
+    
+    
+}
+
+h4{
+    position: relative;
+    top: 7rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.navbar-brand{
+    position: relative;
+    left: 32rem;
+    font-family: 'Itim', cursive;
+
+}
+
+    
+.nav-item{
+    margin: 0 1rem;
+}
+
+.banner{
+background-image: url(wp3077568.webp);
+
+
+
+}
+
+.people{
+    padding-bottom: 6%;
+    position: relative;
+    top: 5.9rem;
+    filter: saturate(120%);
+    padding-bottom: 6rem;
+}
+
+.middle-class{
+    text-align: center;
+}
+
+.middle-header{
+font-size: 4rem;
+padding-top: 4rem;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+ color: rgb(0, 0, 0);
+}
+
+.facts-section{
+    margin-top: 3rem;
+}
+
+.facts{
+    position: relative;
+    right: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.unemployment-image{
+    border-radius: 10%;
+   transform: rotate(360deg);
+   filter: saturate(100%) brightness(40%);
+   
+}
+
+
+.footer{
+    padding: 5rem 0;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    background-color: #222222d9;
+   color: aliceblue;
+   margin-bottom: 1rem;
+}
+
+.box{
+    border: 2px solid rgb(109, 108, 111);
+    text-align: center;
+}
+
+
+.icons{
+    height: 300px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1024px) {
+
+    .navbar-brand{
+        position: relative;
+        left: 1rem;
+        font-size: 1rem;
+        padding: 3%;
+       
+    }
+
+
+    .people{
+        height: 350px;
+      padding-top: 1rem;
+      position: relative;
+      right: 3rem;
+      padding-bottom: 6rem;
+     top: 6rem;
+    
+
+  
+    }
+
+    .title{
+ 
+        text-align: center;
+        position: relative;
+        font-size: 4.9em;
+        padding: 3%;
+        padding-top: 2%;
+        font-family: 'Cinzel', serif;
+           top: 5rem;
+           color: white;
+           right: 3rem;
+        
+        
+        
+    } 
+
+    h4{
+        position: relative;
+        top: 4rem;
+        text-align: center;
+        left: 1rem;
+       
+        color: rgb(202, 193, 193);
+     
+    }
+
+    .facts{
+        position: relative;
+      right: 1rem;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+ 
+    
+}
+
+
+.foot{
+    margin-top: 2rem;
+    padding: 7% 15%;
+    background-color: rgb(183, 208, 230);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fa{
+    padding: 2rem;
+}
